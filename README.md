@@ -18,7 +18,7 @@ O **NutriCalc** é uma aplicação simples em HTML, CSS e JavaScript que permite
 
 🔗 **[Acesse o NutriCalc aqui](https://joaovitor045.github.io/NutriCalc/)**
 
-![Exemplo de uso](imgs/Unb.jpg) <!-- Troque por um print real da aplicação -->
+![Exemplo de uso](imgs/NutriCalc.png) 
 
 ---
 
